@@ -90,4 +90,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-#/Users/amaurycambier/Documents/machine learning/knights/puzzle.py
